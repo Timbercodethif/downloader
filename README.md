@@ -89,6 +89,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [1OuJP6](https://github.com/Timbercodethif/downloader/tree/main/downloads/1OuJP6)
@@ -105,8 +107,10 @@ a
 
 7. [_theta](https://github.com/Timbercodethif/downloader/tree/main/downloads/_theta)
 
-8. [index](https://github.com/Timbercodethif/downloader/tree/main/downloads/index)
+8. [file](https://github.com/Timbercodethif/downloader/tree/main/downloads/file)
 
-9. [index_kappa](https://github.com/Timbercodethif/downloader/tree/main/downloads/index_kappa)
+9. [index](https://github.com/Timbercodethif/downloader/tree/main/downloads/index)
+
+10. [index_kappa](https://github.com/Timbercodethif/downloader/tree/main/downloads/index_kappa)
 
 ---
