@@ -4,6 +4,7 @@
 - [3uN3r](./3uN3r)
 - [Sophia_Parker_Hidden_Desires_Part_2-0](./Sophia_Parker_Hidden_Desires_Part_2-0)
 - [Sophia_Parker_Hidden_Desires_Part_2-0_sun](./Sophia_Parker_Hidden_Desires_Part_2-0_sun)
+- [Sophia_Parker_Hidden_Desires_Part_2-v0.230-pc](./Sophia_Parker_Hidden_Desires_Part_2-v0.230-pc)
 - [_mountain](./_mountain)
 - [_theta](./_theta)
 - [index](./index)
