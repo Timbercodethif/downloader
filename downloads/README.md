@@ -1,6 +1,8 @@
 # Downloaded list :
 
 - [3uN3r](./3uN3r)
+- [_theta](./_theta)
+- [index](./index)
 
 ---
 
